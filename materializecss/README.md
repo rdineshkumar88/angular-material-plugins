@@ -8,4 +8,8 @@ Follow our detailed tutorials at [Ampersand Academy](https://ampersandacademy.co
 
 <img src="m-modified.png">
 
-<img src="m-modified.png">
+<img src="stylecss.png">
+
+<img src="columns-laptop.png">
+
+<img src="columns-mobile.png">
