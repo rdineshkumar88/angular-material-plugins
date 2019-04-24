@@ -1,7 +1,10 @@
 # Angular Material Resources
 
-## We at Ampersand Academy are constantly contribute to the Angular Material community by proactively creating new plugins, free themes and bug fixes which can be briefly read at our tutorials site and can be accessed using the following link:
+## We at Ampersand Academy are constantly contribute to the Angular Material and Ionic community by proactively creating new plugins, free themes and bug fixes which can be briefly read at our tutorials site and can be accessed using the following link:
 http://bit.ly/AmpersandTutorials
+
+## If you would like takeup Angular with Angular Material Course with us, check out our course page
+https://ampersandacademy.com/course/angular4-training.html 
 
 # Angular Material Resources from Ampersand Academy
 
